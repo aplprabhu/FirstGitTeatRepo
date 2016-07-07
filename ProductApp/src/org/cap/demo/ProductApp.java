@@ -11,6 +11,11 @@ public class ProductApp {
 		for(int j=0;j<arr.length;j++){
 			System.out.println("Date"+arr[j]);
 		}
+		int sum=0;
+		for(int j:arr){
+			sum = sum+j;
+		}
+		System.out.println("Sum" +sum);
 	}
 		
 }
