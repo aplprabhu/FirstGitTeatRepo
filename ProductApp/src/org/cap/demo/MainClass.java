@@ -10,6 +10,7 @@ public class MainClass {
 
 	public static void greetings() {
 		System.out.println("Happy to create my fiorst Git app");
+		System.out.println("Shalini Test");
 	}
 
 }
