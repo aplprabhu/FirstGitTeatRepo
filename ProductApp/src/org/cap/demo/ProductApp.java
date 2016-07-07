@@ -7,6 +7,7 @@ public class ProductApp {
 	public void productDisplay() {
 		System.out.println("IGATE");
 		System.out.println("Capgemini");
+		System.out.println("Dev2");
 		
 		for(int j2=0;j2<arr.length;j2++){
 			System.out.println("Date"+arr[j2]);
